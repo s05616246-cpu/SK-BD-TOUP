@@ -6,12 +6,12 @@ var website_name = "SK BD TOPUP";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/skbdtopupl";
+var telegram_channel_link = "https://t.me/skbdtopupI";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/skbdtopupI";
+var telegram_group_link = "https://t.me/skbdtopupl";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
